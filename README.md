@@ -17,5 +17,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=2bicz&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<img align="center" alt="Programming" width="400" src="[https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479yinoa9kcvxtqi1rm5p9fauf7qou034tdxzyoqbf&rid=giphy.gif&ct=g](https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/screen%20open.gif)"/>
+<img align="center" alt="Programming" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479yinoa9kcvxtqi1rm5p9fauf7qou034tdxzyoqbf&rid=giphy.gif&ct=g"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
