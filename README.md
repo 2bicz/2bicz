@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on LetterEye and mobile app for Steam games price comparisions<br>🌱 I’m currently learning Kotlin and Firebase<br>⚡ Fun fact: I love to learn new things!
 
+<img align="right" alt="Programming" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479yinoa9kcvxtqi1rm5p9fauf7qou034tdxzyoqbf&rid=giphy.gif&ct=g"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/patryk.tubicz.5/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2bicz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-tubicz-7a316b1aa/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@patryktubicz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2bicz) 
