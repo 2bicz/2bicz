@@ -1,5 +1,5 @@
 # 💫 Hello there! 💫
-### My name is Patryk Tubicz and I'm beginner software developer from Poland.
+### My name is Patryk Tubicz and I'm beginner software developer from Poland
 🔭 I’m currently working on LetterEye and mobile app for Steam games price comparisions<br>🌱 I’m currently learning Kotlin and Firebase<br>⚡ Fun fact: I love to learn new things!
 
 ## 🌐 Socials:
