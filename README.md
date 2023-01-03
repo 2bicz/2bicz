@@ -17,5 +17,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=2bicz&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<img align="center" alt="Programming" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/screen%20open.gif"/>
+<img align="center" alt="Programming" width="100%" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/screen%20open.gif"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
