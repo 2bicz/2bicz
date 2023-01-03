@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2bicz&label=Profile%20views&color=0e75b6&style=flat" alt="2bicz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2bicz" alt="2bicz" /></a> </p>
-
 - 🔭 I’m currently working on [LetterEye and mobile app for Steam games price comparisions](https://github.com/2bicz/LetterEye)
 
 - 🌱 I’m currently learning **Kotlin, Firebase**
