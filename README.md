@@ -1,6 +1,5 @@
 # 💫 Hello there! 💫
-### My name is Patryk Tubicz and I'm beginner software developer from Poland
-🔭 I’m currently working on LetterEye and mobile app for Steam games price comparisions<br>🌱 I’m currently learning: Spring<br>🚈 Next in my learning queue: Docker<br>⚡ Fun fact: I love to learn new things!
+### My name is Patryk Tubicz and I'm software developer from Poland
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/patryk.tubicz.5/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2bicz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-tubicz-7a316b1aa/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@patryktubicz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19261573) 
